@@ -2,7 +2,7 @@
 
 ![Vista previa del proyecto](./preview.jpg)
 
-## 📖 Descripción
+## Descripción
 
 Solución al desafío [Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm) de [Frontend Mentor](https://www.frontendmentor.io).
 
@@ -10,7 +10,7 @@ El objetivo es construir una página de receta estática que se ajuste lo más f
 
 ---
 
-## 🔗 Enlaces
+## Enlaces
 
 - **Repositorio:** [github.com/Buji-90/recipe-page](https://github.com/Buji-90/recipe-page)
 
@@ -24,7 +24,7 @@ El objetivo es construir una página de receta estática que se ajuste lo más f
 
 ---
 
-## 🏗️ Estructura del proyecto
+## Estructura del proyecto
 
 ```
 recipe-page/
@@ -48,7 +48,7 @@ recipe-page/
 
 ---
 
-## 🎨 Guía de estilos
+## Guía de estilos
 
 ### Tipografía
 
@@ -81,7 +81,7 @@ Tamaño base: `16px`
 
 ---
 
-## ✨ Lo que aprendí
+## Lo que aprendí
 
 - Estructura semántica con HTML5 (`<article>`, `<section>`, `<figure>`, `<header>`)
 - Cómo cargar fuentes locales con `@font-face`
@@ -91,7 +91,7 @@ Tamaño base: `16px`
 
 ---
 
-## 🚀 Despliegue
+## Despliegue
 
 Este proyecto puede desplegarse fácilmente en:
 
@@ -101,7 +101,7 @@ Este proyecto puede desplegarse fácilmente en:
 
 ---
 
-## 👤 Autor
+## Autor
 
 - Frontend Mentor — [@Buji-90](https://www.frontendmentor.io/profile/Buji-90)
 - GitHub — [Buji-90](https://github.com/Buji-90)

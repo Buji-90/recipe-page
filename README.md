@@ -16,7 +16,7 @@ El objetivo es construir una página de receta estática que se ajuste lo más f
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML5 semántico
 - CSS3 (variables personalizadas, Flexbox, diseño responsive)
